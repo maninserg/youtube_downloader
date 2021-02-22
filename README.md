@@ -30,6 +30,8 @@
 
     `pip install -r requirements.txt`
 
-<i>*The installation for MacOS or Windows can differ</i>
+<i>*The installation for MacOS or Windows can be other</i>
 
 <hr>
+
+**Screenshots:**
