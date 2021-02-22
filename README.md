@@ -4,7 +4,7 @@
 
 <hr>
 
-**Description:** This downloader can download videos from file "urls_youtube.txt" or from a playlist of Youtube 
+**Description:** This batch downloader can download videos from file "urls_youtube.txt" or from a playlist of Youtube. It made by the help Python 3 and the packet "pytube".
 
 <hr>
 
