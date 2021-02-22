@@ -49,3 +49,9 @@ You can сhoose settings for downloadable videos: a codec for the video and audi
 <hr>
 
 **Screenshots:**
+
+<p align="center">
+  <img width = "400" src="screenshots/block_settings.png"/>
+<p align="center"><b>The block "SETTINGS"</b><p align="center">
+</p>
+
