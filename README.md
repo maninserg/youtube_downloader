@@ -30,6 +30,6 @@
 
     `pip install -r requirements.txt`
 
-*The installation for MacOS or Windows can differ
+<i>*The installation for MacOS or Windows can differ</i>
 
 <hr>
