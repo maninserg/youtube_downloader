@@ -8,7 +8,7 @@
 
 <hr>
 
-**Installation for Linux*:**
+<b>Installation for Linux*:</b>
 
 1. Clone the repository (or download the zip file and extract it):
 
