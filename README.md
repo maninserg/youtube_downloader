@@ -16,7 +16,7 @@
 
 2. Go to the directory of the program:
    
-    $ `cd <your name of directory>`
+    $ `cd <your name of directory with the program>`
 
 2. Create of a virtual environment:
 
