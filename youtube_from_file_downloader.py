@@ -12,10 +12,12 @@ except FileNotFoundError:
     print("")
     f = []
 
+# SETTINGS
 TP = "video/mp4"
 RES = "720"
 FPS = "30fps"
 AUD = "mp4a"
+# SETTINGS
 
 
 def print_ok(title):

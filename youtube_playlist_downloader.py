@@ -2,7 +2,7 @@ from pytube import Playlist, YouTube
 from pytube import exceptions as ex
 from sys import argv
 
-
+# SETTINGS
 TP = "video/mp4"
 RES = "720"
 FPS = "30fps"
@@ -10,6 +10,7 @@ AUD = "mp4a"
 DOWNLOAD_CAPTION = "no"  # "yes" or "no"
 LANGUAGE_CAPTION = "English"
 AUTO_GENERATED = "yes"  # "yes" or "no". "no" means that only original captions
+# SETTINGS
 
 
 def get_captions(yt, DOWNLOAD_CAPTION, LANGUAGE_CAPTION, AUTO_GENERATED):
