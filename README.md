@@ -52,6 +52,6 @@ You can сhoose settings for downloadable videos: a codec for the video and audi
 
 <p align="center">
   <img width = "600" src="screenshots/block_settings.png"/>
-<p align="center"><b>The block "SETTINGS"</b><p align="center">
+<p align="center"><b>The block "SETTINGS" in the file "youtube_playlist_downloader.py"</b><p align="center">
 </p>
 
