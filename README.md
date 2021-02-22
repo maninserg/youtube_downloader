@@ -44,6 +44,8 @@
      
     (.venv) $ `python youtube_from_file_downloader.py`
 
+You can сhoose settings for downloadable videos: a codec for the video and audio, a video resolution, a frame rate and the type of files. For this see the block of SETTINGS in the each of the files by opening it in a text editor. Also for download of a playlist you can choose the download of captions, them a language and original/auto-generated.
+
 <hr>
 
 **Screenshots:**
