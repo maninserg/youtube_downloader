@@ -2,10 +2,10 @@
 
 
 
-**About:** The downloader of videos from Youtube
+**About:** The batch downloader of videos from Youtube
 
 <hr>
 
-**Description:** The downloader of videos from Youtube that can download videos both the batch way and use a playlist of Youtube 
+**Description:** This downloader can download videos from file "urls_youtube.txt" or from a playlist of Youtube 
 
 <hr>
