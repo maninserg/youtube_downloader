@@ -40,7 +40,7 @@
 
     (.venv) $ `python youtube_playlist_downloader.py "<url of playlist>"`
 
-2. For the download of videos from "url_youtube.txt" copy urls to this file. One url have to be in one row without empty rows between urls and than to use following command
+2. For the download of videos from "url_youtube.txt" copy urls to this file. One url have to be in one row without empty rows between urls and than to use following command:
      
     (.venv) $ `python youtube_from_file_downloader.py`
 
