@@ -32,9 +32,8 @@ This batch downloader can download videos from file "urls_youtube.txt" or from a
 
 <i>*The installation for MacOS or Windows can be other</i>
 
-<hr>
 
-<b>Using:</b>
+## Using
 
 1. For the download of a playlist:
 
