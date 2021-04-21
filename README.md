@@ -1,14 +1,14 @@
 # youtube_downloader
 
-**About:** The batch downloader of videos from Youtube
+The batch downloader of videos from Youtube
 
-<hr>
 
-**Description:** This batch downloader can download videos from file "urls_youtube.txt" or from a playlist of Youtube. It made by the help Python 3 and the packet "pytube".
+## Description
 
-<hr>
+This batch downloader can download videos from file "urls_youtube.txt" or from a playlist of Youtube. It made by the help Python 3 and the packet "pytube".
 
-<b>Installation for Linux*:</b>
+
+## Installation for Linux*:
 
 1. Clone the repository (or download the zip file and extract it):
 
@@ -46,9 +46,8 @@
 
 You can сhoose settings for downloadable videos: a codec for the video and audio, a video resolution, a frame rate and the type of files. For this see the block of SETTINGS in the each of the files by opening it in a text editor. Also for download of a playlist you can choose the download of captions, them a language and original/auto-generated.
 
-<hr>
 
-**Screenshots:**
+## Screenshots
 
 <p align="center">
   <img width = "600" src="screenshots/block_settings.png"/>
